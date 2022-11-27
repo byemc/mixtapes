@@ -1,2 +1,2 @@
 # mixtapes
-Music player
+Music player for broadcasters
